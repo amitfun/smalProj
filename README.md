@@ -1,0 +1,4 @@
+smalProj
+========
+
+CLI test
