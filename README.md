@@ -1,4 +1,0 @@
-smalProj
-========
-
-CLI test
